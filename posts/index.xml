@@ -9,5 +9,16 @@
 		<lastBuildDate>Tue, 27 Feb 2024 22:56:57 -0300</lastBuildDate>
 		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>First</title>
+			<link>http://localhost:1313/posts/first/</link>
+			<pubDate>Tue, 27 Feb 2024 22:56:57 -0300</pubDate>
+			
+			<guid>http://localhost:1313/posts/first/</guid>
+			<description>Teste de post</description>
+			<content type="html"><![CDATA[<p>Teste de post</p>
+]]></content>
+		</item>
+		
 	</channel>
 </rss>
